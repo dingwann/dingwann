@@ -51,12 +51,12 @@ $ cat skills.txt
 ## 📊 Combustion Stats · 燃烧统计
 
 <p align="center">
-  <img src="https://github-readme-stats-mocha-beta.vercel.app/api?username=dingwann&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F74C00&icon_color=F74C00&text_color=C9D1D9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-mocha-beta.vercel.app/api/top-langs/?username=dingwann&layout=compact&hide_border=true&bg_color=0D1117&title_color=F74C00&text_color=C9D1D9" alt="Top Langs" />
+  <img height="170" src="https://github-readme-stats-mocha-beta.vercel.app/api?username=dingwann&show_icons=true&hide_border=true&bg_color=00000000&title_color=F74C00&icon_color=F74C00&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-mocha-beta.vercel.app/api/top-langs/?username=dingwann&layout=compact&hide_border=true&bg_color=00000000&title_color=F74C00&text_color=C9D1D9&langs_count=8" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolition.dev?user=dingwann&theme=radix&hide_border=true&background=0D1117&ring=F74C00&fire=F74C00&currStreakLabel=F74C00" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dingwann&theme=radix&hide_border=true&background=0D1117&ring=F74C00&fire=F74C00&currStreakLabel=F74C00" alt="GitHub Streak" />
 </p>
 
 ---

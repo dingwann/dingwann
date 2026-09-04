@@ -1,4 +1,4 @@
-# <p align="center">Hi there 👋, I'm DingWan（丁烷） 🔥</p>
+# <p align="center">Hi there 👋,  I'm DingWan（丁烷）</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=%E4%B8%81%E7%83%B7+%7C+Butane+%7C+Flammable;Java+Full-Stack+%E2%86%92+AI+Agent+Engineer;Igniting...+%F0%9F%94%A5" alt="Typing SVG" />
@@ -51,12 +51,12 @@ $ cat skills.txt
 ## 📊 Combustion Stats · 燃烧统计
 
 <p align="center">
-  <img src="https://github-readme-stats-mocha-beta.vercel.app/api?username=dingwann&show_icons=true&hide_border=true&bg_color=00000000&title_color=F74C00&icon_color=24292F&text_color=24292F&card_width=495" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-mocha-beta.vercel.app/api/top-langs/?username=dingwann&layout=compact&hide_border=true&bg_color=00000000&title_color=F74C00&text_color=24292F&langs_count=10&card_width=495" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com?user=dingwann&hide_border=true&background=00000000&ring=F74C00&fire=F74C00&currStreakLabel=F74C00&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dingwann&hide_border=true&background=00000000&ring=F74C00&fire=F74C00&currStreakLabel=F74C00&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-mocha-beta.vercel.app/api?username=dingwann&show_icons=true&hide_rank=true&hide=stars&hide_border=true&bg_color=00000000&title_color=F74C00&icon_color=24292F&text_color=24292F&include_all_commits=true&line_height=30" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-mocha-beta.vercel.app/api/top-langs/?username=dingwann&layout=compact&hide_border=true&bg_color=00000000&title_color=F74C00&text_color=24292F&langs_count=8" alt="Top Langs" />
 </p>
 
 ---

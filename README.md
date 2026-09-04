@@ -10,12 +10,12 @@
 $ whoami
   Name:      Ding Wan
   Role:      Java Full-Stack Developer
-  Path:      Backend → AI Agent Engineer
+  Focus:     Backend & AI Agent
 
 $ cat skills.txt
-  Backend:   Java · Spring Boot · MySQL · Redis · RabbitMQ
-  Frontend:  React · TypeScript · TailwindCSS
-  Tools:     Docker · Linux · Git · IntelliJ IDEA
+  Language:   Java & Python
+  Frameworks: Spring Boot & Spring Cloud & FastAPI & NexJS
+  Tools:      IntelliJ IDEA & Codex & Vim & Otty
 
 ```
 

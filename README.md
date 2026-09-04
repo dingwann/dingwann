@@ -1,9 +1,4 @@
-<!-- 
-  C₄H₁₀ · 丁烷 · Butane
-  易燃，遇热自燃， storing energy...
--->
-
-# <p align="center">C₄H₁₀ 🔥</p>
+# <p align="center">Hi there 👋, I'm DingWan（丁烷） 🔥</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=%E4%B8%81%E7%83%B7+%7C+Butane+%7C+Flammable;Java+Full-Stack+%E2%86%92+AI+Agent+Engineer;Igniting...+%F0%9F%94%A5" alt="Typing SVG" />
@@ -12,40 +7,16 @@
 ---
 
 ```bash
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ██╗  ██╗███████╗ █████╗ ████████╗                         │
-│   ██║  ██║██╔════╝██╔══██╗╚══██╔══╝                         │
-│   ███████║█████╗  ███████║   ██║                            │
-│   ██╔══██║██╔══╝  ██╔══██║   ██║                            │
-│   ██║  ██║███████╗██║  ██║   ██║                            │
-│   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝                            │
-│                                                             │
-│   $ whoami                                                  │
-│   ────────────────────────────────────────────              │
-│   Name:        Ding Wan (丁烷)                               │
-│   Formula:     C₄H₁₀                                        │
-│   Phase:       Stored Energy · Java Full-Stack Dev           │
-│   Bond:        Spring Boot · React · MySQL                   │
-│   Reaction:    Java Backend → AI Agent Engineer              │
-│   State:       易燃易爆 · Ignition Sequence Initiated 🔥     │
-│                                                             │
-│   $ cat /etc/environment                                    │
-│   ────────────────────────────────────────────              │
-│   OS:         Windows + WSL2                                 │
-│   Terminal:   Windows Terminal                               │
-│   Editor:     IntelliJ IDEA                                  │
-│   Shell:      zsh                                            │
-│                                                             │
-│   $ ps aux | grep "learning"                                │
-│   ────────────────────────────────────────────              │
-│   PID   PROCESS          STATUS                             │
-│   001   AI Agent         🔥 active                           │
-│   002   LLM / MCP        🔥 active                           │
-│   003   LangChain        ⏳ starting                         │
-│   004   System Design    💤 sleeping                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+$ whoami
+  Name:      Ding Wan
+  Role:      Java Full-Stack Developer
+  Path:      Backend → AI Agent Engineer
+
+$ cat skills.txt
+  Backend:   Java · Spring Boot · MySQL · Redis · RabbitMQ
+  Frontend:  React · TypeScript · TailwindCSS
+  Tools:     Docker · Linux · Git · IntelliJ IDEA
+
 ```
 
 ---
@@ -76,20 +47,6 @@
 
 ---
 
-## 🧪 Active Reaction · 正在进行的反应
-
-> `C₄H₁₀ + O₂ → CO₂ + H₂O + 🔥`
->
-> **丁烷在氧气中燃烧 → 释放能量 → 转化为 AI Agent**
-
-| Reaction | Progress | Catalyst |
-|----------|----------|----------|
-| 🤖 AI Agent 开发 | ████████░░ 80% | LLM · Function Calling · MCP |
-| 🔗 LangChain / Framework | ██████░░░░ 60% | Agent 编排 · RAG |
-| 🏗️ AI 工程化 | ████░░░░░░ 40% | Prompt Engineering · Eval |
-| 🎯 Transition to AI Engineer | ██░░░░░░░░ Igniting | 持续放热中 |
-
----
 
 ## 📊 Combustion Stats · 燃烧统计
 
@@ -114,5 +71,4 @@
 
 <p align="center">
   <i>"丁烷的沸点是 -0.5°C，但我的热情没有上限。"</i><br/>
-  <b>C₄H₁₀ — Flammable · Stored Energy · Ready to Burn 🔥</b>
 </p>

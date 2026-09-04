@@ -26,6 +26,7 @@ $ cat skills.txt
 <h3 align="center">Backend</h3>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -51,12 +52,12 @@ $ cat skills.txt
 ## 📊 Combustion Stats · 燃烧统计
 
 <p align="center">
-  <img width="320" src="https://github-readme-stats-mocha-beta.vercel.app/api?username=dingwann&show_icons=true&hide_rank=true&hide=stars&hide_border=true&bg_color=00000000&title_color=F74C00&icon_color=24292F&text_color=24292F&include_all_commits=true&line_height=30" alt="GitHub Stats" />
-  <img width="320" src="https://github-readme-stats-mocha-beta.vercel.app/api/top-langs/?username=dingwann&layout=compact&hide_border=true&bg_color=00000000&title_color=F74C00&text_color=24292F&langs_count=8" alt="Top Langs" />
+  <img width="320" height="205" src="https://github-readme-stats-mocha-beta.vercel.app/api?username=dingwann&show_icons=true&hide_rank=true&hide=stars&hide_border=true&bg_color=00000000&title_color=F74C00&icon_color=24292F&text_color=24292F&include_all_commits=true&line_height=30" alt="GitHub Stats" />
+  <img width="320" height="205" src="https://github-readme-stats-mocha-beta.vercel.app/api/top-langs/?username=dingwann&layout=compact&hide_border=true&bg_color=00000000&title_color=F74C00&text_color=24292F&langs_count=8" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img width="640" src="https://streak-stats.demolab.com?user=dingwann&hide_border=true&background=00000000&ring=F74C00&fire=F74C00&currStreakLabel=F74C00&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" alt="GitHub Streak" />
+  <img width="640" height="252" src="https://streak-stats.demolab.com?user=dingwann&hide_border=true&background=00000000&ring=F74C00&fire=F74C00&currStreakLabel=F74C00&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" alt="GitHub Streak" />
 </p>
 
 ---

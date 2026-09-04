@@ -14,7 +14,7 @@ $ whoami
 
 $ cat skills.txt
   Language:   Java & Python
-  Frameworks: Spring Boot & Spring Cloud & FastAPI & NexJS
+  Frameworks: Spring Boot & Spring Cloud & FastAPI & NextJS
   Tools:      IntelliJ IDEA & Codex & Vim & Otty
 
 ```

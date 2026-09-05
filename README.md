@@ -1,7 +1,7 @@
 # <p align="center">Hi there 👋,&nbsp;I'm Ding Wan（丁烷）</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=680&lines=System.out.println%28%22Hi%2C+I%27m+DingWan%22%29%3B;print%28%22Java+Full-Stack+Developer%22%29;console.log%28%22Learning+AI+Agents...%22%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=System.out.println%28%22Hi%2C+I%27m+DingWan%22%29%3B;print%28%22Java+Full-Stack+Developer%22%29;console.log%28%22Learning+AI+Agents...%22%29" alt="Typing SVG" />
 </p>
 
 ---

@@ -1,10 +1,13 @@
-# <p align="center">Hi there 👋,&nbsp;I'm Ding Wan（丁烷）</p>
+<h1 align="left">Hi there 👋, I'm Ding Wan（丁烷）</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=System.out.println%28%22Hi%2C+I%27m+DingWan%22%29%3B;print%28%22Java+Full-Stack+Developer%22%29;console.log%28%22Learning+AI+Agents...%22%29" alt="Typing SVG" />
-</p>
+</p> -->
 
----
+### ᕕ( ᐛ )ᕗ
+<p>
+  Backend engineer. Frontend enthusiast. AI Agent explorer.
+</p>
 
 ```bash
 $ whoami
@@ -19,9 +22,7 @@ $ cat skills.txt
 
 ```
 
----
-
-## ⚗️ Elements · 技术栈
+## Kung Fu
 
 <h3 align="center">Backend</h3>
 
@@ -53,10 +54,8 @@ $ cat skills.txt
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
 
-
-## 📊 Combustion Stats · 燃烧统计
+## Combustion Stats
 
 <p align="center">
   <img width="320" height="205" src="https://github-readme-stats-mocha-beta.vercel.app/api?username=dingwann&show_icons=true&hide_rank=true&hide=stars&hide_border=true&bg_color=00000000&title_color=F74C00&icon_color=24292F&text_color=24292F&include_all_commits=true&line_height=30" alt="GitHub Stats" />
@@ -67,15 +66,12 @@ $ cat skills.txt
   <img width="640" height="252" src="https://streak-stats.demolab.com?user=dingwann&hide_border=true&background=00000000&ring=F74C00&fire=F74C00&currStreakLabel=F74C00&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A" alt="GitHub Streak" />
 </p>
 
----
 
-## 🔥 Ignition Counter · 访客计数
+## Ignition Counter
 
 <p align="center">
   <img src="https://count.getloli.com/@dingwann?name=dingwann&theme=booru-lewd&padding=8&offset=10&align=center&scale=1.5&pixelated=1&darkmode=auto" alt="Visitor Count" />
 </p>
-
----
 
 <p align="center">
   <i>"丁烷的沸点是 -0.5°C，但我的热情没有上限。"</i><br/>

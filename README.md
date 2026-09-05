@@ -16,7 +16,7 @@ $ whoami
   Focus:     Backend & AI Agent
 
 $ cat skills.txt
-  Language:   Java & Python
+  Language:   Java & Python & TypeScript
   Frameworks: Spring Boot & Spring Cloud & FastAPI & NextJS
   Tools:      IntelliJ IDEA & Codex & Vim & Otty
 

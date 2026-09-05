@@ -1,8 +1,6 @@
 # <p align="center">Hi there 👋,&nbsp;I'm Ding Wan（丁烷）</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=600&lines=%E4%B8%81%E7%83%B7+%7C+Butane+%7C+Flammable;Java+Full-Stack+%E2%86%92+AI+Agent+Engineer;Igniting...+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=System.out.println%28%22Hi%2C+I'm+DingWan%22%29;print%28%22Java+Full-Stack+Developer%22%29;console.log%28%22Learning+AI+Agents...%22%29)](https://git.io/typing-svg)
 
 ---
 
